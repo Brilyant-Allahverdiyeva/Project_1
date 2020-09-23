@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.box-1{
+    width: 50%;
+    height: 600px;
+    background-color: #A9D7D1;
+    margin: auto;
+    padding: 30px;
+}
+div.box-2{
+    width: 98%;
+    height: 500px;
+    background-color: #FAFAFA;
+    margin: auto;
+    margin-top: 10px;
+}
+div.box-3{
+    width: 60%;
+    height: 500px;
+    float: left;
+    text-align: right;
+}
+div.box-4{
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+h2{
+    text-transform: capitalize;
+    text-align: center;
+}
+p{
+    padding: 7px;
+    font-size: 18px;
+
+}
+.p1{
+    text-align: center;
+}
+.clear{
+    overflow: auto;
+}
+
+   
